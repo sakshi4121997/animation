@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377235123459",
+    "firebase_url": "https://animation-57c33.firebaseio.com",
+    "project_id": "animation-57c33",
+    "storage_bucket": "animation-57c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377235123459:android:93aeb50e78cb9f6ca60d36",
+        "android_client_info": {
+          "package_name": "com.sakshi.animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377235123459-j6ofl13tfs33m6t1srl566tceqdt2i4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakshi.animation",
+            "certificate_hash": "ffb2ae9e801282e1789014d6aeb275e7a55fe3b8"
+          }
+        },
+        {
+          "client_id": "377235123459-tm2l0nu3g1kqnn37je0hads46s010vfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwOgnKYgG8DHwuP0BnhzuFqlMK7B3qKGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377235123459-tm2l0nu3g1kqnn37je0hads46s010vfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
